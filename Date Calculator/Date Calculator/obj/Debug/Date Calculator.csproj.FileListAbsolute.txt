@@ -1,0 +1,10 @@
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\bin\Debug\Date Calculator.exe.config
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\bin\Debug\Date Calculator.exe
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\bin\Debug\Date Calculator.pdb
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.csprojResolveAssemblyReference.cache
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.csproj.ResolveComReference.cache
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\obj\Debug\Date_Calculator.Form1.resources
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\obj\Debug\Date_Calculator.Properties.Resources.resources
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.csproj.GenerateResource.Cache
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.exe
+\\s29b-smdrv\mydocs$\joshua.meservey\visual studio 2015\Projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.pdb
